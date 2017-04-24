@@ -1,0 +1,101 @@
+body{
+background: #FFFFFF;
+margin: 0;
+color: #000;
+
+}
+a{margin:0; padding:0;}
+.embed-container{
+position: relative;
+padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;
+}
+.embed-container iframe, .embed-container object,.embed-container embed{ 
+position: absolute; top: 0; left: 0; width: 100%; height: 100%;
+}
+
+input {
+  display: none;
+}
+label {
+  display: block;
+  float: left;
+  width: 25%;
+  color: #550000;
+  cursor: pointer;
+  text-decoration: none;
+  text-align: center;
+  padding: 1em 0; 
+  font-size: 1.1em;
+  background: #AA0000;
+}
+
+
+section {
+  display: none;
+}
+input, section {
+  clear: both;
+  padding-top: 10px;
+  display: none;
+}
+
+#tab1:checked ~ #content1,
+#tab2:checked ~ #content2,
+#tab3:checked ~ #content3,
+#tab4:checked ~ #content4{
+  display: block;
+}
+
+.tab-container [id^="tab"]:checked + label {
+  background: #CC0000;
+  color: #000000;
+}
+
+
+.tab-content {
+
+}
+.digital-list {
+	margin:  0 auto;
+}
+
+.digital-list img {
+	width: 10em;
+	display: inline-block;
+	vertical-align: bottom;
+}
+
+.digital-list .btn{
+	float: right;
+}
+.digital-item{
+	border-bottom:  1px solid #CCCCCC;
+	padding: 1em;
+}
+
+.digital-item:hover{
+	background: #CCC;
+}
+
+.btn{
+	color: #333;
+	vertical-align: bottom;
+	font-size: 1.2em;
+	display: inline-block;
+	padding: .5em;
+	border:  1px solid #333;
+	border-radius: .3em;
+	margin: 0;
+}
+
+.intro{
+	margin: 1em;
+
+}
+
+.song-name-1{
+	color: #660011;
+}
+.song-name-2{
+	color: #006611;
+}

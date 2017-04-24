@@ -1,0 +1,1021 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"show_",
+				"show_kay_huang"
+			],
+			[
+				"show_ho",
+				"show_hoween_danielho"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"show_n",
+				"show_naiwen_yang"
+			],
+			[
+				"show_s",
+				"show_sandee_chan"
+			],
+			[
+				"show_c",
+				"show_come_on_baybay"
+			],
+			[
+				"replay",
+				"replay-slider"
+			],
+			[
+				"repla",
+				"replay-slider"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"cho",
+				"chocolate-tiger"
+			],
+			[
+				"show_heloo",
+				"show_hello_nico"
+			],
+			[
+				"heloo",
+				"hello-nico_selfie"
+			],
+			[
+				"live_",
+				"live_chocolate-tiger"
+			],
+			[
+				"img-",
+				"img-responsive"
+			],
+			[
+				"true",
+				"trueli"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"tabl",
+				"table-cell"
+			],
+			[
+				"count",
+				"countdown-section"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"opa",
+				"opacity"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"tlk",
+				"tlkio"
+			],
+			[
+				"ma",
+				"margin-right"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/jotarun/Dropbox/Public/live/index_lite.html",
+			"settings":
+			{
+				"buffer_size": 5111,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/jotarun/Dropbox/Public/live/index.html",
+			"settings":
+			{
+				"buffer_size": 5272,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "packa",
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"liv",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"P",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '261dd1222b4693ce6d4f85f9c827ac06' + '6d5ab8ebdd020086947172a8a1356bb6'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jotarun/Downloads/infernal.affairs.(2002).eng.1cd.(3103815)/Infernal.Affairs.2002.DVDRip.XviD-UnSeeN.ENG.srt",
+		"/Users/jotarun/Dropbox/Public/live/index.html",
+		"/Users/jotarun/Dropbox/Public/live/index_lite.html",
+		"/Users/jotarun/Downloads/The_Incredibles_2004_BluRay_720p_DTS_4Audio_x264-CHD.cht.srt",
+		"/Users/jotarun/Downloads/Cars.2006.BluRay.1080p.DTSES.4Audio.x264-CHD.chn.srt",
+		"/Users/jotarun/Downloads/tlf-cars.hd.x264.CHT.srt",
+		"/Users/jotarun/Downloads/汽车总动员1.2006.台配字幕.srt",
+		"/Users/jotarun/Downloads/tether-1.3.3/dist/js/tether.min.js",
+		"/Users/jotarun/Documents/ValenHsu New Site/valenvoice.com/css/bootstrap.css",
+		"/Users/jotarun/Documents/ValenHsu New Site/valenvoice.com/css/bootstrap.min.css",
+		"/Users/jotarun/Documents/ValenHsu New Site/valenvoice.com/css/bootstrap-flex.css.map",
+		"/Users/jotarun/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/jotarun/Documents/startbootstrap-clean-blog-gh-pages/css/clean-blog.css",
+		"/Users/jotarun/Dropbox/yahoo-live/main.html",
+		"/Users/jotarun/Dropbox/yahoo-live/live_totem.html",
+		"/Users/jotarun/Dropbox/yahoo-live/live_88balaz.html",
+		"/Users/jotarun/Dropbox/yahoo-live/live_tnbt2015.html",
+		"/Users/jotarun/Dropbox/yahoo-live/live_monkey-pilot.html",
+		"/Users/jotarun/Dropbox/yahoo-live/live_kay-huang.html",
+		"/Users/jotarun/Dropbox/yahoo-live/live_shuo-hsiao.html",
+		"/Users/jotarun/Dropbox/yahoo-live/live_faye.html",
+		"/Users/jotarun/Dropbox/yahoo-live/live_creamfields.html",
+		"/Users/jotarun/Dropbox/yahoo-live/live_come-on-baybay.html",
+		"/Users/jotarun/Dropbox/yahoo-live/live_faye_tmp.html",
+		"/Users/jotarun/Dropbox/yahoo-live/live_hoween-danielho.html",
+		"/Users/jotarun/Dropbox/yahoo-live/live_iguband_expired.html",
+		"/Users/jotarun/Dropbox/yahoo-live/live_iheartradio_day_1.html",
+		"/Users/jotarun/Dropbox/yahoo-live/live_sandee-chan.html",
+		"/Users/jotarun/Dropbox/yahoo-live/live_shuo-hsiao_pre.html",
+		"/Users/jotarun/Dropbox/yahoo-live/live_waa-wei.html",
+		"/Users/jotarun/Dropbox/yahoo-live/live_chocolate-tiger_expired.html",
+		"/Users/jotarun/Dropbox/yahoo-live/live_hello-nico_expired.html",
+		"/Users/jotarun/Dropbox/yahoo-live/live_iguband.html",
+		"/Users/jotarun/Dropbox/yahoo-live/live_iheartradio_day_2.html",
+		"/Users/jotarun/Dropbox/yahoo-live/live_naiwen-yang.html",
+		"/Users/jotarun/Dropbox/yahoo-live/live_naiwen-yang_pre.html",
+		"/Users/jotarun/Dropbox/yahoo-live/live_peggy-hsu.html",
+		"/Users/jotarun/Dropbox/yahoo-live/live_sandee-chan_test.html",
+		"/Users/jotarun/Dropbox/yahoo-live/live_wonfu_expired.html",
+		"/Users/jotarun/Dropbox/yahoo-live/live_yoyo_expired.html",
+		"/Users/jotarun/Dropbox/yahoo-live/live_orangegrass_expired.html",
+		"/Users/jotarun/Dropbox/yahoo-live/live_guntzepaula.html",
+		"/Users/jotarun/Dropbox/yahoo-live/live_iguband_post.html",
+		"/Users/jotarun/Dropbox/yahoo-live/live_peggy-hsu_post.html",
+		"/Users/jotarun/Library/Application Support/Sublime Text 2/Packages/GoSublime/CHANGELOG.md",
+		"/Users/jotarun/Dropbox/yahoo-live/live_wonfu_test.html",
+		"/Users/jotarun/Downloads/1422854766-1/Wild.Card.2015.720p.WEB-DL.DD5.1.H264-RARBG.eng-cht.srt",
+		"/Users/jotarun/Dropbox/yahoo-live/live_orangegrass_test.html",
+		"/Users/jotarun/Dropbox/yahoo-live/live_orangegrass.html",
+		"/Users/jotarun/Dropbox/yahoo-live/live_wonfu.html",
+		"/Users/jotarun/Dropbox/yahoo-live/live_chocolate-tiger.html",
+		"/Users/jotarun/Dropbox/yahoo-live/live_chocolate-tiger_pre.html",
+		"/Users/jotarun/Dropbox/yahoo-live/live_hello-nico.html",
+		"/Users/jotarun/Dropbox/yahoo-live/live_yoyo_temp.html",
+		"/Users/jotarun/Dropbox/yahoo-live/legacylive.sublime-workspace",
+		"/Users/jotarun/Dropbox/yahoo-live/main_oppo.html",
+		"/Users/jotarun/Dropbox/yahoo-live/main_oppo2.html",
+		"/Users/jotarun/Dropbox/yahoo-live/main_oppo3.html",
+		"/Users/jotarun/Dropbox/yahoo-live/main_oppo4.html",
+		"/Users/jotarun/githurepo/live/index_lite.html",
+		"/Users/jotarun/Desktop/main.html",
+		"/Users/jotarun/Dropbox/yahoo-live/live_guntzepaula_post.html",
+		"/Users/jotarun/Dropbox/yahoo-live/live_come-on-baybay_post.html",
+		"/Users/jotarun/Dropbox/yahoo-live/stylesheets/custom.css",
+		"/Users/jotarun/Dropbox/yahoo-live/javascripts/moment.min.js",
+		"/Users/jotarun/Dropbox/yahoo-live/stylesheets/bootstrap.css",
+		"/Users/jotarun/Dropbox/yahoo-live/images/share-facebook.png",
+		"/Users/jotarun/Dropbox/yahoo-live/live_yoyo.html",
+		"/Users/jotarun/Dropbox/yahoo-live/javascripts/jquery.rss.js",
+		"/Users/jotarun/Dropbox/yahoo-live/javascripts/bootstrap.js",
+		"/Users/jotarun/Dropbox/YahooxLegacy/rss&chatroom-iframe.txt",
+		"/Users/jotarun/Desktop/yvideo.js",
+		"/Users/jotarun/Dropbox/yahoo-live/javascripts/jquery.rss.js.old.js",
+		"/Users/jotarun/Dropbox/yahoo-live/javascripts/jquery.iosslider.min.js",
+		"/Users/jotarun/Dropbox/yahoo-live/live.html",
+		"/Users/jotarun/Dropbox/yahoo-live/test.rss",
+		"/Users/jotarun/Dropbox/yahoo-live/hello-nico.html",
+		"/Users/jotarun/Dropbox/yahoo-live/javascripts/ouical.js",
+		"/Users/jotarun/Dropbox/Public/yahoo-live/showcase.json",
+		"/Users/jotarun/Dropbox/Public/yahoo-live/stylesheets/custom.css",
+		"/Users/jotarun/Dropbox/Public/yahoo-live/stylesheets/bootstrap.css",
+		"/Users/jotarun/Desktop/yahoovideo.js",
+		"/Users/jotarun/Dropbox/Public/yahoo-live/live_faye.html",
+		"/Users/jotarun/Dropbox/Public/yahoo-live/live_yoyo.html",
+		"/Users/jotarun/Dropbox/Public/yahoo-live/live_iguband.html",
+		"/Users/jotarun/Dropbox/Public/yahoo-live/main.html",
+		"/Users/jotarun/Dropbox/Public/yahoo-live/live.html",
+		"/Users/jotarun/Library/Application Support/Sublime Text 2/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/Users/jotarun/Dropbox/Public/yahoo-live/javascripts/bootstrap.js",
+		"/Users/jotarun/Dropbox/Public/yahoo-live/javascripts/querystring.js",
+		"/Users/jotarun/Dropbox/Public/yahoo-live/soon.html",
+		"/Users/jotarun/Dropbox/Public/yahoo-live/javascripts/atc.min.js",
+		"/Users/jotarun/Dropbox/Public/yahoo-live/stylesheets/ionicons.min.css",
+		"/Users/jotarun/Dropbox/Public/yahoo-live/index.html",
+		"/Users/jotarun/Dropbox/Public/yahoo-live/stylesheets/jquery.countdown.css",
+		"/Users/jotarun/Dropbox/Public/yahoo-live/video.html",
+		"/Users/jotarun/Dropbox/Public/screentest.html",
+		"/Users/jotarun/Dropbox/Public/yahoo-live/stylesheets/docs.min.css",
+		"/Users/jotarun/Dropbox/Public/yahoo-live/music.html",
+		"/Users/jotarun/Downloads/jquery.countdown.package-2.0.2/countdownBasic.html",
+		"/Users/jotarun/githurepo/live/index.html",
+		"/Users/jotarun/Dropbox/Public/yahoo-live/javascripts/jquery.plugin.min.js",
+		"/Users/jotarun/Dropbox/Public/yahoo-live/javascripts/common.js"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/jotarun/Dropbox/yahoo-live,*.html",
+			"/Users/jotarun/Dropbox/yahoo-live"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"center",
+			"Playfair Display",
+			"EB Garamond",
+			"img-fluid",
+			"responsive",
+			"width: 100%",
+			"responsive",
+			"Cochin",
+			"living",
+			"html",
+			"font-size",
+			"center",
+			"center-block",
+			"center",
+			"navbar",
+			"serif",
+			"img-responsive",
+			"img",
+			"image",
+			"responsive",
+			"font-family",
+			"REPLAY",
+			"live_shuo-hsiao.html",
+			"live_kay-huang.html",
+			"live_totem.html",
+			"live_monkey-pilot.html",
+			"live_faye.html",
+			"live_88balaz.html",
+			"live_tnbt2015.html",
+			"live_naiwen-yang.html",
+			"live_waa-wei.html",
+			"live_sandee-chan.html",
+			"live_hoween-danielho.html",
+			"live_guntzepaula.html",
+			"live_iguband.html",
+			"live_peggy-hsu.html",
+			"live_come-on-baybay.html",
+			"live_chocolate-tiger.html",
+			"live_wonfu.html",
+			"live_hello-nico.html",
+			"live_orangegrass.html",
+			"岑寧兒",
+			"live_yoyo.html",
+			"monkey",
+			"totem",
+			"圖騰樂團",
+			"monkeypilot",
+			"kay-huang",
+			"faye",
+			"Faye.",
+			"show_kay-huang",
+			"Faye",
+			"faye",
+			"id\"",
+			"faye",
+			"88balaz",
+			"88",
+			"88balaz",
+			"88b",
+			"tnbt2015",
+			"waa-wei",
+			"2000",
+			"sandee-chan",
+			"19",
+			"槍",
+			"iheart",
+			"hoween",
+			"guntzepaula",
+			"Live",
+			"選擇",
+			"live",
+			"show-playing-description",
+			"show_come-on-baybay",
+			"indie",
+			"sandee-chan",
+			"img-full",
+			"img",
+			"img-",
+			"border-bottom",
+			"日",
+			"btn-",
+			"underline",
+			"decoration: under",
+			"lnk",
+			"link",
+			"qr",
+			"本數位直播系列節目獲文化部影視及流行音樂產業局補助",
+			"・本數位直播系列節目獲文化部影視及流行音樂產業局補助",
+			"<p>・本數位直播系列節目獲文化部影視及流行音樂產業局補助</p>",
+			"qr",
+			"rss-slider",
+			"手機",
+			"iosSlider",
+			"oppo",
+			"ㄟ",
+			"small",
+			"oppo",
+			"bitrate",
+			"quality",
+			"player-container",
+			"videoWrapper",
+			"campign",
+			"sponsor",
+			"oppo",
+			"sandee-chan",
+			"come-on-baybay",
+			"chocolate-tiger",
+			"text-nowrap",
+			"nowrap",
+			"      white-space: nowrap; \nnowrap",
+			"rss",
+			"iframe",
+			"nico",
+			"UA-62824885-1",
+			"replay",
+			"ㄇreplay",
+			"rss-feeds",
+			"#rss-feeds",
+			"#rss-feeds ",
+			"Container",
+			"replay",
+			"iosSlider",
+			"iosslider",
+			"iosslider2",
+			"iosslider",
+			"iosslider-wrapper",
+			"replay",
+			"related-video-thumb-name"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Libre Baskerville",
+			"Playfair Display",
+			"EB Garamond",
+			"#",
+			"shuo-hsiao",
+			"蕭賀碩",
+			"monkey-pilot",
+			"kay-huang",
+			"faye",
+			"totem",
+			"88balaz",
+			"tnbt2015",
+			"waa-wei",
+			"hoween-danielho",
+			"peggy-hsu",
+			"naiwen-yang",
+			"sandee-chan",
+			"come-on-baybay",
+			"UA-64822141-1",
+			"hello-nico",
+			"guntzepaula",
+			"chocolate-tiger",
+			"col-xs-6 col-md-4",
+			"related-video-thumb",
+			"live-showlist-thumb",
+			"m-bottom-4",
+			"col-md-3",
+			"11b",
+			"lab10hw"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/jotarun/Dropbox/Public/live/index_lite.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5111,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4387,
+								4387
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										4387,
+										4388
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										4350,
+										4351
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2616.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/jotarun/Dropbox/Public/live/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5272,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4206,
+								4206
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										4275,
+										4281
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										4185,
+										4191
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2843.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o:///Users/jotarun":
+	{
+		"height": 118.0
+	},
+	"output.9o:///Users/jotarun/golang":
+	{
+		"height": 118.0
+	},
+	"output.GoSublime-main-output":
+	{
+		"height": 118.0
+	},
+	"output.MarGo-output":
+	{
+		"height": 118.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "J.Sheon.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 254.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
