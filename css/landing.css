@@ -47,17 +47,16 @@ input, section {
 }
 
 .tab-container [id^="tab"]:checked + label {
-  background: #CC0000;
+  background: #FFFFFF;
   color: #000000;
+  box-shadow: inset 0 3px #FF0000;
 }
 
 
 .tab-content {
 
 }
-.digital-list {
-	margin:  0 auto;
-}
+
 
 .digital-list img {
 	width: 10em;
@@ -65,16 +64,27 @@ input, section {
 	vertical-align: bottom;
 }
 
-.digital-list .btn{
+.social-item a{
+
+	text-decoration: none;
+	color: #333;
+}
+
+.social-item img{
+	width:  3em;
+	vertical-align: middle;
+	margin-right: 1em;
+}
+.digital-list .btn, .social-item .btn{
 	float: right;
 }
-.digital-item{
-	border-bottom:  1px solid #CCCCCC;
+.digital-item, .social-item{
+	border-bottom:  1px solid #EEE;
 	padding: 1em;
 }
 
-.digital-item:hover{
-	background: #CCC;
+.digital-item:hover, .social-item:hover{
+	background: #EEE;
 }
 
 .btn{
@@ -98,4 +108,20 @@ input, section {
 }
 .song-name-2{
 	color: #006611;
+}
+.video-card{
+	margin: 2em 1em;
+	box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+	border-radius: .3em;
+}
+
+.video-card-social{
+	font-size: 0.8em;
+	padding: .5em 0 ;
+
+}
+
+.video-card-social .btn{
+	border: none;
+	color: #CC0000;
 }
