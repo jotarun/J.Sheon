@@ -89,7 +89,7 @@ input, section {
 	float: right;
 }
 .digital-item, .social-item{
-	border-bottom:  1px solid #EEE;
+	border-bottom:  1px solid #DDD;
 	padding: 1em;
 }
 
@@ -138,4 +138,9 @@ input, section {
 .video-card-social .btn{
 	border: none;
 	color: #CC0000;
+	margin: .2em .5em;
+	font-size: .8em;
+}
+.video-card-social .btn:hover{
+	background: #CCC;
 }
