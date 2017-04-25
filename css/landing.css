@@ -1,7 +1,8 @@
 body{
-background: #FFFFFF;
+background: #EEE;
 margin: 0;
 color: #000;
+font-family: sans-serif;
 
 }
 a{margin:0; padding:0;}
@@ -20,15 +21,21 @@ label {
   display: block;
   float: left;
   width: 25%;
-  color: #550000;
+  color: #FFCCCC;
   cursor: pointer;
   text-decoration: none;
   text-align: center;
   padding: 1em 0; 
-  font-size: 1.1em;
+  font-size: 1em;
   background: #AA0000;
 }
 
+.top-fixed {
+position: fixed;
+top: 0;
+left: 0;
+width: 100%;
+}
 
 section {
   display: none;
@@ -47,8 +54,8 @@ input, section {
 }
 
 .tab-container [id^="tab"]:checked + label {
-  background: #FFFFFF;
-  color: #000000;
+  background: #EEE;
+  color: #CC0000;
   box-shadow: inset 0 3px #FF0000;
 }
 
@@ -93,14 +100,17 @@ input, section {
 	font-size: 1.2em;
 	display: inline-block;
 	padding: .5em;
-	border:  1px solid #333;
+	border:  1px solid #999;
 	border-radius: .3em;
 	margin: 0;
+}
+.btn:hover{
+	background: #999;
 }
 
 .intro{
 	margin: 1em;
-
+	line-height: 1.5em;
 }
 
 .song-name-1{
@@ -110,15 +120,15 @@ input, section {
 	color: #006611;
 }
 .video-card{
-	margin: 2em 1em;
-	box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
-	border-radius: .3em;
+	margin: 1em .5em;
+	background: #FFF;
+	box-shadow: 0 2px 2px 0 rgba(0,0,0,.14), 0 3px 1px -2px rgba(0,0,0,.2), 0 1px 5px 0 rgba(0,0,0,.12);
+	border-radius: .1em;
 }
 
 .video-card-social{
 	font-size: 0.8em;
 	padding: .5em 0 ;
-
 }
 
 .video-card-social .btn{
