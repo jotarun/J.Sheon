@@ -66,13 +66,16 @@ input, section {
 
 
 .digital-list img {
-	width: 10em;
+	width: 8em;
 	display: inline-block;
 	vertical-align: bottom;
 }
 
-.social-item a{
+.social-item {
+	height: 3em;
 
+}
+.social-item a{
 	text-decoration: none;
 	color: #333;
 }
@@ -112,6 +115,7 @@ input, section {
 	margin: 1em;
 	line-height: 1.5em;
 }
+
 
 .song-name-1{
 	color: #660011;
