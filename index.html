@@ -21,14 +21,12 @@
         </div>
         <div class="tab-container">
             <!-- Tabs -->
-            <input id="tab1" type="radio" name="tabs" checked>
-            <label for="tab1"><span>數位音樂</span></label>
-            <input id="tab2" type="radio" name="tabs">
-            <label for="tab2"><span>影音花絮</span></label>
-            <input id="tab3" type="radio" name="tabs">
-            <label for="tab3"><span>社群平台</span></label>
-            <input id="tab4" type="radio" name="tabs">
-            <label for="tab4"><span>專輯介紹</span></label>
+            <div class="tabs">
+                <div class="tab-menu current"><a href="#content1">數位音樂</a></div>
+                <div class="tab-menu" ><a href="#content2">影音花絮</a></div>
+                <div class="tab-menu" ><a href="#content3">社群平台</a></div>
+                <div class="tab-menu" ><a href="#content4">專輯介紹</a></div>
+            </div>
             <!--tab contents-->
             <section id="content1" class="tab-content">
                 <div class="digital-list">
@@ -42,29 +40,32 @@
             <section id="content2" class="tab-content">
                 <div class="video-card">
                     <div class="embed-container">
-                        <iframe src="https://www.youtube.com/embed/jLUQhp9PxQg?rel=0＆controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
+                        <iframe src="https://www.youtube.com/embed/jLUQhp9PxQg?rel=0＆controls=0&showinfo=0&wmode=transparent" frameborder="0" allowfullscreen></iframe>
                     </div>
+                    <div class="video-card-title">街巷的惡趣味 / 認同請分享</div>
                     <div class="video-card-social">
-                    <a class="btn">分享至facebook</a> 
-                    <a class="btn">分享至微博</a>
+                        <a class="btn">分享至facebook</a>
+                        <a class="btn">分享至微博</a>
                     </div>
                 </div>
                 <div class="video-card">
                     <div class="embed-container">
-                        <iframe src="https://www.youtube.com/embed/bKU3hJqR7pY?rel=0＆controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
+                        <iframe src="https://www.youtube.com/embed/bKU3hJqR7pY?rel=0＆controls=0&showinfo=0&wmode=transparent" frameborder="0" allowfullscreen></iframe>
                     </div>
+                    <div class="video-card-title">認同請分享 (新年快樂) | 說看看 Vol. 9</div>
                     <div class="video-card-social">
-                    <a class="btn">分享至facebook</a> 
-                    <a class="btn">分享至微博</a>
+                        <a class="btn">分享至facebook</a>
+                        <a class="btn">分享至微博</a>
                     </div>
                 </div>
                 <div class="video-card">
                     <div class="embed-container">
-                        <iframe src="https://www.youtube.com/embed/013KIGGg12c?rel=0＆controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
+                        <iframe src="https://www.youtube.com/embed/013KIGGg12c?rel=0＆controls=0&showinfo=0&wmode=transparent" frameborder="0" allowfullscreen></iframe>
                     </div>
+                    <div class="video-card-title"> 街巷 | 說看看 Vol. 11</div>
                     <div class="video-card-social">
-                    <a class="btn">分享至facebook</a> 
-                    <a class="btn">分享至微博</a>
+                        <a class="btn">分享至facebook</a>
+                        <a class="btn">分享至微博</a>
                     </div>
                 </div>
             </section>
@@ -111,5 +112,22 @@
             </section>
             
         </div>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+        <script src="js/jquery.sticky.js"></script>
+        <script>
+        $(document).ready(function() {
+        
+        $("#content1").show();
+        $(".tabs a").click(function(event) {
+        event.preventDefault();
+        $(this).parent().addClass("current");
+        $(this).parent().siblings().removeClass("current");
+        var tab = $(this).attr("href");
+        $(".tab-content").not(tab).css("display", "none");
+        $(tab).fadeIn();
+        });
+        $(".tabs").sticky({topSpacing:0,zIndex:999});
+        });
+        </script>
     </body>
 </html>
