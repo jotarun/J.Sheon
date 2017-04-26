@@ -113,7 +113,9 @@
             
         </div>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-        <script src="js/jquery.sticky.js"></script>
+        
+        <script src="js/jquery.stickybits.min.js"></script>
+
         <script>
         $(document).ready(function() {
         
@@ -126,7 +128,8 @@
         $(".tab-content").not(tab).css("display", "none");
         $(tab).fadeIn();
         });
-        $(".tabs").sticky({topSpacing:0,zIndex:999});
+        $(".tabs").stickybits();
+
         });
         </script>
     </body>
