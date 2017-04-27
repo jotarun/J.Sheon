@@ -68,10 +68,12 @@ display: inline-block;
 vertical-align: bottom;
 }
 .big {
+display: inline-block;
+margin-top: .5em;
 font-size: 1.5em;
 }
 .social-item {
-height: 2em;
+height: 3em;
 }
 .social-item a{
 text-decoration: none;
@@ -94,7 +96,6 @@ background: #DDD;
 }
 .btn{
 color: #333;
-vertical-align: bottom;
 font-size: 1.2em;
 display: inline-block;
 padding: .5em;
